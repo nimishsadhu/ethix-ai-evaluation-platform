@@ -1,6 +1,7 @@
 # ⚖️ ETHIX — AI Ethics & Fairness Evaluation Platform
 
 > Built by **Nimish** · Python · Streamlit · Scikit-learn
+> 🚀 Live App: https://ethix-ai-evaluation-platform.streamlit.app/
 
 ---
 
@@ -31,6 +32,35 @@ The app works with any binary classification dataset. I tested it on a Loan Appr
 | DIR | 1.1072 ✅ Fair |
 | EOD | -0.0133 ✅ Fair |
 
+---
+
+## 📸 Application Screenshots
+
+<table>
+<tr>
+<td align="center"><b>Dashboard</b><br><img src="Screenshots/01_dashboard.png" width="300"/></td>
+<td align="center"><b>Upload</b><br><img src="Screenshots/02_upload_csv.png" width="300"/></td>
+<td align="center"><b>Sample Data</b><br><img src="Screenshots/03_sample_data.png" width="300"/></td>
+</tr>
+
+<tr>
+<td align="center"><b>Data Overview</b><br><img src="Screenshots/04_data_overview.png" width="300"/></td>
+<td align="center"><b>EDA</b><br><img src="Screenshots/05_eda_analysis.png" width="300"/></td>
+<td align="center"><b>Model Training</b><br><img src="Screenshots/06_model_training.png" width="300"/></td>
+</tr>
+
+<tr>
+<td align="center"><b>Evaluation</b><br><img src="Screenshots/07_model_evaluation.png" width="300"/></td>
+<td align="center"><b>Fairness</b><br><img src="Screenshots/08_fairness_check.png" width="300"/></td>
+<td align="center"><b>Bias Mitigation</b><br><img src="Screenshots/09_bias_mitigation.png" width="300"/></td>
+</tr>
+
+<tr>
+<td align="center"><b>Ethical Score</b><br><img src="Screenshots/10_ethical_score.png" width="300"/></td>
+<td align="center"><b>New Dataset</b><br><img src="Screenshots/11_new_dataset.png" width="300"/></td>
+<td align="center"><b>Final Result</b><br><img src="Screenshots/12_final_result.png" width="300"/></td>
+</tr>
+</table>
 ---
 
 ## What the app actually does
